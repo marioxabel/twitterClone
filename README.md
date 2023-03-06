@@ -10,10 +10,10 @@ The goal of this project was to build a twitter clone using HTML, CSS & JavaScri
 ## Features
 
 The user @Internet_native_cat is able to:
-    - post new tweets
-    - like tweets
-    - retweet
-    - reply to tweets
+- post new tweets
+- like tweets
+- retweet
+- reply to tweets
 
 ## Technologies
 
