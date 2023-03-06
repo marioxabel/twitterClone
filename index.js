@@ -74,7 +74,7 @@ function handleTweetBtnClick(){
     if(tweetInput.value){
         tweetsData.unshift({
             handle: `@Internet_native_cat`,
-            profilePic: `images/cat.jpeg`,
+            profilePic: `./images/cat.jpeg`,
             likes: 0,
             retweets: 0,
             tweetText: tweetInput.value,
