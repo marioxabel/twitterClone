@@ -96,7 +96,7 @@ function handleCommentBtnClick(tweetId) {
     })[0]
     targetTweetObj.replies.unshift({
                 handle: `@Internet_native_cat`,
-                profilePic: `images/cat.jpeg`,
+                profilePic: `./images/cat.jpeg`,
                 tweetText: comment.value,
     })
     console.log(targetTweetObj)
